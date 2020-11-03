@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84ccf099-9a09-47ba-ae0a-084f48cc4039" name="Default Changelist" comment="" />
+    <list default="true" id="84ccf099-9a09-47ba-ae0a-084f48cc4039" name="Default Changelist" comment="前端">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +16,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1jiy0QCXdhsfsXGifr30SeE7ZRh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -22,6 +28,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -42,23 +49,41 @@
       <updated>1604300983440</updated>
       <workItem from="1604300984643" duration="1337000" />
       <workItem from="1604303192551" duration="17112000" />
-      <workItem from="1604325007706" duration="137000" />
+      <workItem from="1604325007706" duration="469000" />
+      <workItem from="1604325532133" duration="35000" />
+      <workItem from="1604364992258" duration="255000" />
     </task>
+    <task id="LOCAL-00001" summary="前端">
+      <created>1604325229781</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604325229781</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="前端" />
+    <option name="LAST_COMMIT_MESSAGE" value="前端" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="780" y="137" key="FileChooserDialogImpl" timestamp="1604325085746">
+    <state x="780" y="137" key="FileChooserDialogImpl" timestamp="1604325181830">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="780" y="137" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1604325085746" />
-    <state x="422" y="0" key="SettingsEditor" timestamp="1604325144199">
+    <state x="780" y="137" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1604325181830" />
+    <state x="92" y="132" key="SettingsEditor" timestamp="1604325556035">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="92" y="132" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1604325127921" />
+    <state x="92" y="132" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1604325556035" />
     <state x="422" y="0" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1604325144199" />
+    <state x="441" y="288" key="Vcs.Push.Dialog.v2" timestamp="1604325289338">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="441" y="288" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1604325289338" />
     <state x="623" y="225" width="840" height="678" key="search.everywhere.popup" timestamp="1604319057599">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
